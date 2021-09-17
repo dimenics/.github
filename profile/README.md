@@ -1,6 +1,4 @@
-![Dime Software](assets/logo.svg)
-
-<h1 class="center"> Dime Software </h1>
+![Dime Software](https://github.com/dimenics/.github/raw/master/profile/assets/logo.svg)
 
 Boosting your business with powerful and integrated software.
 
