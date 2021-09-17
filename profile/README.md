@@ -1,4 +1,4 @@
-![Dime Software](https://github.com/dimenics/.github/raw/master/profile/assets/logo.svg)
+<img src="https://github.com/dimenics/.github/raw/master/profile/assets/logo.svg" height="250px" />
 
 Boosting your business with powerful and integrated software.
 
