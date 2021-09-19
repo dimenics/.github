@@ -9,7 +9,9 @@
 
 Supercharge your ERP with great add-ons built by Dime Software.
 
-<img src="https://github.com/dimenics/.github/raw/master/profile/assets/ds.svg" height="100px" />
+<div align="center">
+    <img src="https://github.com/dimenics/.github/raw/master/profile/assets/ds.svg" height="250px" />
+</div>
 
 Dime Software consists of experienced and motivated business consultants, software developers and entrepeneurs.
 
