@@ -7,23 +7,33 @@
     </h1>
 </div>
 
+<div align="center">
 Supercharge your ERP with great add-ons built by Dime Software.
+</div>
+<br />
 
 <div align="center">
     <img src="https://github.com/dimenics/.github/raw/master/profile/assets/ds.svg" height="250px" />
 </div>
+<br />
 
 Dime Software consists of experienced and motivated business consultants, software developers and entrepeneurs.
 
 With a proven track record in all areas of software development and channel distribution, Dime Software is your one-stop shop for the creation of add-ons for the Microsoft Dynamics product suite.
 
 - **Experienced​**: Our team has been working in the industry for many years and have the know-how and the network to develop and distribute add-ons for the Microsoft Dynamics product suite.
-  
 - **Skilled**: A multi-disciplinary team of people from different backgrounds guarantee software is created to high standards, on time and in scope to deliver high-quality solutions that meet the needs of your customers.
 
+<img align="left" src="https://cdn.dime-software.com/dime-software/mascot.svg" height="150px" width="175px" alt="Dime Software Mascot" />  
+
+<br />
+
 Dime Software is an authority in the Microsoft Dynamics channel and has been a reliable software partner for many organizations across the globe. We have:
+
 - An outreach of 20.000 people
 - A network of more than 80 resellers
 - Customers with headquarters in more than 20 countries
+
+<br />
 
 Check out [dime-software.com](www.dimesoftware.com) and [dimescheduler.com](www.dimescheduler.com) for more about us!
