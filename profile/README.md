@@ -24,7 +24,7 @@ With a proven track record in all areas of software development and channel dist
 - **Experienced​**: Our team has been working in the industry for many years and have the know-how and the network to develop and distribute add-ons for the Microsoft Dynamics product suite.
 - **Skilled**: A multi-disciplinary team of people from different backgrounds guarantee software is created to high standards, on time and in scope to deliver high-quality solutions that meet the needs of your customers.
 
-<img align="left" src="https://cdn.dime-software.com/dime-software/mascot.svg" height="150px" width="175px" alt="Dime Software Mascot" />  
+<img align="left" src="https://cdn.dime-software.com/dime-software/mascot.svg" height="175px" width="175px" alt="Dime Software Mascot" />  
 
 <br />
 
